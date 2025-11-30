@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+pdf2image
+pillow
+opencv-python-headless
+requests
+rapidfuzz
